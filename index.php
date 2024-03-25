@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amazon.com. Spend less. smile more.</title>
     <link rel="stylesheet" href="/clone_website/index.css">
+    <!-- Hey am checking out collaboration -->
 </head>
 
 <body>
